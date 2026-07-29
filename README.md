@@ -131,7 +131,6 @@ Run from the repository root so `backrooms.png` loads correctly.
 
 ## Demo Video
 
-> Demo video placeholder: add the gameplay recording link or embedded media here.
 
 
 <img width="800" height="450" alt="Raycaster gameplay preview" src="https://github.com/user-attachments/assets/8ad6491c-8bb1-42e6-81a3-798897af5bf7" />
